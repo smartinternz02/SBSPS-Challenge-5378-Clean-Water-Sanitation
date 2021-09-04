@@ -15,8 +15,6 @@
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
-  - [Getting started](#getting-started)
-  - [Live demo](#live-demo)
   - [Built with](#built-with)
   - [Contributing](#contributing)
   - [Versioning](#versioning)
@@ -26,7 +24,7 @@
 
 ## Short description
 
-LiquiDa is a Mobile App which helps us to ensure availability and sustainable management of clean water.
+**LiquiDa** is a Mobile App which helps us to ensure availability and sustainable management of clean water.
 
 ### What's the problem?
 
@@ -63,29 +61,12 @@ An Application which helps us to ensure availability and sustainable management 
 
 ## Project roadmap
 
-The project currently does the following things.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
 It's in a free tier IBM Cloud and use only the services avaliable in lite account. In the future we plan to make to serverless by fetching the data in realtime.
 
 See below for our roadmap.
 
 ![Roadmap](https://github.com/ANASDAVOODTK/Clean_water_and_sanitation/blob/master/roadmap.png)
 
-## Getting started
-
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
-
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
-
-## Live demo
-
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
 
 ## Built with
 
